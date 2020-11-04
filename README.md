@@ -1,5 +1,5 @@
 # Introduction-to-Portfolio-Construction-and-Analysis-with-Python
-Notebook based on the course "Introduction to Portfolio Construction and Analysis with Python" from EDHEC Business School I took on Coursera.
+Notebooks based on the course "Introduction to Portfolio Construction and Analysis with Python" from EDHEC Business School I took on Coursera.
 
 If you would like to download the notebooks and use them, please, add the file edhec_risk_kit.py to the folder in which the other Python libraries/modules are located in your computer. This is a file that gathers most of the functions that were built during the course.
 
